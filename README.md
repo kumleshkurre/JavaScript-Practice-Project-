@@ -6,7 +6,7 @@ This repository contains a **basic JavaScript + HTML practice project** created 
 ## 📁 Project Structure
 
 ```bash
-AI/
+
 │── L1 first program.html
 │── L2 result.html
 │── L3 home.html
