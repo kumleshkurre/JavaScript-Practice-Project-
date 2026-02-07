@@ -8,13 +8,13 @@ This repository contains a **basic JavaScript + HTML practice project** created 
 ```bash
 AI/
 │── L1 first program.html
-│── L3 result.html
-│── L4.home.html
-│── L4local storage.html
-│── L5. Rotpart.html
-│── L6.Api data delete.html
-│── L6.API Data insert.html
-│── L6.update api.html
+│── L2 result.html
+│── L3 home.html
+│── L3 local storage.html
+│── L4 Rotpart.html
+│── L5 Api data delete.html
+│── L5 API Data insert.html
+│── L5 update api.html
 ```
 
 Each file focuses on a specific JavaScript concept for hands-on learning.
